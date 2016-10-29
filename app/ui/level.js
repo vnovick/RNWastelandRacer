@@ -35,7 +35,6 @@ export default class Level extends Component{
 
 const styles = StyleSheet.create({
   sprite: {
-    position: 'absolute',
-    transform: [{ translate: [0, 0, 0, 2]}]
+    position: 'absolute'
   }
 });

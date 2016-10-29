@@ -165,9 +165,9 @@ export default class GameManager {
       gas: 0
     },
     {
-      image: require('../assets/imgs/dirt_large.png'),
+      image: require('../assets/imgs/Fuel_can.png'),
       damage: 1,
-      gas: 0
+      gas: 10
     },
     {
       image: require('../assets/imgs/dirt_large.png'),
